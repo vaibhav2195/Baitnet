@@ -24,13 +24,13 @@
  - ```git clone https://gitlab.com/vaibhav2195/Baitnet.git```
 
 ##### Enter the directory
- - ```cd MaxPhisher```
+ - ```cd Baitnet```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt --break-system-packages```
 
 ##### Run the tool
- - ```python3 maxphisher.py```
+ - ```python3 Baitnet.py```
 
 
 
